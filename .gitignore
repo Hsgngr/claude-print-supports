@@ -9,6 +9,8 @@ __pycache__/
 *_trunk_support/
 !examples/hollow_box_pin_support/
 !examples/hollow_box_trunk_support/
+!examples/hollow_dome_pin_support/
+!examples/hollow_dome_trunk_support/
 examples/*_support/build_info.json
 examples/*_support/pins.npy
 examples/*_support/trunks.json
