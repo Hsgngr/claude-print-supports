@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+# outputs next to a part
+*_pins.stl
+*_with_pins.stl
+*_trunks.stl
+*_with_trunks.stl
+*_pin_support/
+*_trunk_support/
+!examples/hollow_box_pin_support/
+!examples/hollow_box_trunk_support/
+examples/*_support/build_info.json
+examples/*_support/pins.npy
+examples/*_support/trunks.json
